@@ -17,6 +17,15 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+//    NSURLSession* session = [NSURLSession sharedSession];
+//    NSURLSessionDataTask* task = [session dataTaskWithURL:<#(nonnull NSURL *)#> completionHandler:^(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error) {
+//        
+//    }];
+//    [task resume];
+    
+//    NSArray* arr = [NSJSONSerialization JSONObjectWithData:0 options:NSJSONReadingMutableContainers error:<#(NSError * _Nullable __autoreleasing * _Nullable)#>]
+    
 }
 
 
